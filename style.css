@@ -1,0 +1,46 @@
+.android-header {
+    position: fixed;
+}
+
+.eve-back-image {
+    margin-top: 50px;
+    background-image: url("/images/ourevents.jpg");
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: 900;
+}
+
+.demo-card-square.mdl-card {
+  width: 320px;
+}
+
+.mdl-cell--4-col {
+    padding-top: 35px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+/* 
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+  background:
+    url('/images/chimera.jpg') bottom right 15% no-repeat #46B6AC;
+    background-size: cover;
+} */
+
+.mdl-card__supporting-text {
+    font-family: 'Poppins', sans-serif;
+    padding: auto;
+    text-align: center;
+    font-weight: 500;
+}
+
+.event-title-heading {
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
